@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;800&display=swap");
 
 :root {
-  --main-color: #6dd5ed;
-  --secondary-color: #2193b0;
+  --main-color: #eb60b1;
+  --secondary-color: #EA40A4;
   --gradient: linear-gradient(
     135deg,
     var(--main-color),
